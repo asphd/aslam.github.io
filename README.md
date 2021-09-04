@@ -1,2 +1,0 @@
-# aslam.github.io
-test
